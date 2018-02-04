@@ -1,0 +1,2 @@
+# DataStructureLinearSearch
+LinearSearch Exercise
